@@ -1,0 +1,26 @@
+Gregory McGiff,19,GMcGiff@gmail.com,Computer Science
+Patch,10,patchietreats@outlook.com,Software Engineering
+Rosa Diaz,27,Cassell@yahoo.com,Software Engineering
+Billy Sanderson,23,SandersenBill@gmail.com,Games Design
+Jake Peralta,27,Cassell@yahoo.com,Software Engineering
+George Macdonald,20,gtmacdonald06@gmail.com,Software Engineering
+Jaz Elms,18,Jelms@hotmail.com,Networking
+Grace McCulloch,18,McGrace@gmail.c0m,Networking
+Fred,8,Fred@gmail.com,Networking
+Geralt of Rivia,80,Geralt@gmail.com,Networking
+Stewie Griffin,5,GriffinStew@hotmail.com,Software Engineering
+Brandon Waddington,19,BWadzz@yahoo.com,Software Engineering
+DillyGaff,200,@gmail.com,Software Engineering
+Isaac Peters,18,IsaaaaaacPetes@hotmail.com,Games Design
+Lewis Hamilton,30,HamiltonF1@gmail.com,Games Design
+Cai Evans,19,CEvans01@yahoo.com,Software Engineering
+Thomas Quick,20,hes@jail.com,Computer Science
+Tom Jones,52,TJones@wales.com,Software Engineering
+Brian Griffin,21,BGriffin@gmail.com,Software Engineering
+Maisy Price,20,Price@hotmail.com,Games Design
+Lisa Simpson,12,LSimpson@simpsons.com,Computer Science
+Tom Cassell,27,Cassell@yahoo.com,Software Engineering
+Latham Atkinson,20,AtkinsonLath@outlook.com,Software Engineering
+Charlotte Evans,19,CEvans@gmail.com,Computer Science
+Harry Potter,17,PotterH@hogwarts.com,Software Engineering
+Jamie Macdonald,25,jemacdonald@yahoo.com,Games Design
